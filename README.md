@@ -1,2 +1,31 @@
-# gift.4mafss
-for @MAFIAPUP.
+<p align="center"><img width="1500" height="500" alt="tumblr_a7123fc369d348a4ac938465504bc0c3_3c2199fa_2048 (1)" src="https://github.com/user-attachments/assets/30162626-ed08-4143-b5c7-176e1d680f8a" /></p>
+<p align="center"><img width="910" height="485" alt="tumblr_b3269b7ce840687a5dfeea47469fd134_a7236b49_1280 (1)" src="https://github.com/user-attachments/assets/6e768fae-ae84-4a92-83d8-83fc593685b9" /></p>
+
+
+<p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
+
+<p align="center"> 𖥻 ׁ ׅ  name  𓂃 ou ⤷ ༄.° name2 ! ׁ ׅ </p>
+
+<p align="center"> 𐂯 ૮ ˙Ⱉ˙ ა rawr!  insertkin ⤶ . </p>
+
+<!--INFO-->
+<div align="center">
+<details>
+  <summary>
+    $${\Large\textbf{  information + boundaries .}}$$
+  </summary>
+<div align= "center">
+  test.
+</p>
+</details>
+
+<!--INFO-->
+<div align="center">
+<details>
+  <summary>
+    $${\Large\textbf{  information + boundaries .}}$$
+  </summary>
+<div align= "center">
+  test.
+</p>
+</details>
