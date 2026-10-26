@@ -25,7 +25,11 @@
     $${\Large\textbf{  information + boundaries .}}$$
   </summary>
 <div align= "center">
-  test.
+   txt txt txt txt , info info info , txt txt txt
+  
+  txt txt txt , info info , txt txt txt
+  
+  txt info txt
 </p>
 </details>
 
@@ -36,11 +40,20 @@
     $${\Large\textbf{  interests + yumes/kins .}}$$
   </summary>
 <div align= "center">
-  test.
+   txt txt txt txt , info info info , txt txt txt
+  
+  txt txt txt , info info , txt txt txt
+  
+  txt info txt
 </p>
 </details>
 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=100&size=30&letterSpacing=triple&duration=3406&pause=000&color=FFFFFF&center=true&width=435&lines=MILITARY+FASHION+SHOW" alt="Typing SVG" /></a>
+</p>
+
 <img width="443" height="442" alt="tumblr_b3269b7ce840687a5dfeea47469fd134_a7236b49_1280 (2)" src="https://github.com/user-attachments/assets/99a6a128-34c2-498d-9e62-dee2c7c0adb3" />
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=100&size=30&letterSpacing=triple&duration=3406&pause=000&color=FFFFFF&center=true&width=435&lines=Github+gifted+by+carcrash." alt="Typing SVG" /></a></p>
 
 
 <!--INFO-->
@@ -50,7 +63,11 @@
     $${\Large\textbf{  friends + oomfs .}}$$
   </summary>
 <div align= "center">
-  test.
+  txt txt txt txt , txt txt txt , txt txt txt
+
+  txt txt txt , txt txt , txt txt txt
+  
+  txt txt txt
 </p>
 </details>
 
@@ -61,7 +78,11 @@
     $${\Large\textbf{  extra .}}$$
   </summary>
 <div align= "center">
-  test.
+  txt txt txt txt , info info info , txt txt txt
+  
+  txt txt txt , info info , txt txt txt
+  
+  txt info txt
 </p>
 </details>
 
