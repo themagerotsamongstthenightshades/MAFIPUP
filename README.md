@@ -6,6 +6,9 @@
 <p align="center">
 <a href="https://hits.sh/github.com/MAFIAPUP/"><img alt="Hits" src="https://hits.sh/github.com/MAFIAPUP.svg?style=for-the-badge&label=DEBTS%20COLLECTED&extraCount=54352&color=000000&labelColor=3f3f3f"/></a>
 </p>
+<p align="center">
+<a href="https://hits.sh/github.com/MAFIAPUP/"><img alt="Hits" src="https://hits.sh/github.com/MAFIAPUP.svg?style=for-the-badge&label=BUNNIES&extraCount=20392&color=000000&labelColor=3f3f3f"/></a>
+</p>
 
 <p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
 <p align="center"> ╔═══════════✿══════✿═══════════╗ </p>
