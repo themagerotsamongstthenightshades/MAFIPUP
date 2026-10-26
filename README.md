@@ -2,7 +2,7 @@
 <p align="center"><img width="910" height="485" alt="tumblr_b3269b7ce840687a5dfeea47469fd134_a7236b49_1280 (1)" src="https://github.com/user-attachments/assets/6e768fae-ae84-4a92-83d8-83fc593685b9" /></p>
 
 
-<p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
+<p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
 <p align="center"> ╔═══════════✿══════✿═══════════╗ </p>
 
 <p align="center"> 𖥻 ׁ ׅ  name  𓂃 ou ⤷ ༄.° name2 ! ׁ ׅ </p>
@@ -62,7 +62,7 @@
 <p align="center"> •ﻌ• </p>
 
 <p align="center">╚══════════✿══════✿═════════╝ </p>
-<p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
+<p align="center"> ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ </p>
 
 <p align="cetner"><img width="1500" height="500" alt="tumblr_3594706d0171dc70e856fa1c7addd4a6_aa1fd5f9_640 (1)" src="https://github.com/user-attachments/assets/139e579c-b327-4ffe-8dcf-11b438b1b9f2" /></p>
 <p align="center"><img width="1500" height="500" alt="tumblr_a7123fc369d348a4ac938465504bc0c3_3c2199fa_2048 (2)" src="https://github.com/user-attachments/assets/8509c302-9708-41de-9214-b8ccb0d78507" /></p>
